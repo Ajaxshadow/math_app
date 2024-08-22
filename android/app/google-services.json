@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "540154571794",
+    "project_id": "math-app-5e6d0",
+    "storage_bucket": "math-app-5e6d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540154571794:android:61c10c875c869104553ccb",
+        "android_client_info": {
+          "package_name": "com.abdulfaga.math_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540154571794-abga1h04031kqk1e0pp8tk92rtjod47s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8YVM3A9S-CpScV9GrilrjYw8EogVmqOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540154571794-abga1h04031kqk1e0pp8tk92rtjod47s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
